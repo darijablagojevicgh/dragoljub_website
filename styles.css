@@ -591,6 +591,7 @@ header {
     margin-bottom: 20px; /* Razmak između stavki liste */
     font-weight: bold; /* Podebljan tekst */
      font-size: 18px;
+     text-align: left;
 }
 .custom-list li::before {
     content: ''; /* Ova pseudoelement se koristi za dodavanje kvadratića */
